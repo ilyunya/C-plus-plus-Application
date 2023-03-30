@@ -1,0 +1,2 @@
+D:\MyAppC++\MyApp1\MyApp1\Debug\MyApp1.MyForm.resources
+D:\MyAppC++\MyApp1\MyApp1\Debug\MyApp1.vcxproj.GenerateResource.cache
